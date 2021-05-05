@@ -28,7 +28,7 @@ export default function About() {
             <img src={sunset} alt="HB Surf" className="absolute w-full" />
             <div className="p-10 lg:pt-48 container mx-auto relative">
                 <section className="bg-gray-800 rounded-lg shadow-2xl lg:flex p-20 opacity-95">
-                    <img src={urlFor(author.authorImage).url()} className="rounded w-32 h-32 lg:w-64 lg:h-64 mr-8" aly={author.name} />
+                    <img src={urlFor(author.authorImage).url()} className="rounded w-32 h-32 lg:w-64 lg:h-64 mr-8" alt={author.name} />
                     <div className="text-lg mt-12 flec flex-col justify-center">
                         <h1 className="cursive text-6xl text-gray-300 mb-4">
                             Howdy, I'm{" "} 

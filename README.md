@@ -1,5 +1,30 @@
 # React-Portfolio
 
+## Description
+A portfolio built with REACT.
+Design was custom through bootstrap.
+This portfolio has a multi page layout with a header that stays on all pages.
+The header includes:
+  - My name (Home page button)
+  - Blog
+  - Projects
+  - Bio
+  - Social Media links (Twitter, Instagram, and LinkedIn)
+
+## Blog
+A page that has blogs about my personal interests. Contains three blogs:
+  - Philadelphia Eagles
+  - Gym
+  - Los Angeles Lakers
+
+All three were made for fun to add a little diversity to my profile.
+
+## Projects
+Page with my favorite projects. Will update later as I continue to grow with my knowledge.
+
+## Dependencies
+  - React
+
 ## Deploy
 - NPM START (App)
   - CD into 'portfolio' folder

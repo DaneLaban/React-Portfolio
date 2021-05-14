@@ -1,5 +1,8 @@
 # React-Portfolio
 
+## Deployment
+Unable to deploy to multiple sites. Only sites working as of now is the localhost.
+
 ## Description
 A portfolio built with REACT.
 Design was custom through bootstrap.
